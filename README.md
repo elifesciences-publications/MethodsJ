@@ -1,3 +1,6 @@
+This code is associated with the paper from Marqués et al., "Imaging methods are vastly underreported in biomedical research". eLife, 2020. http://doi.org/10.7554/eLife.55133
+
+
 # MethodsJ
 MethodsJ helps to write the material and methods section of a scientific article, by automatically generating a description of the imaging parameters.
 
